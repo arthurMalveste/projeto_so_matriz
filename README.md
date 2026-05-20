@@ -27,8 +27,8 @@ make
 
 ## 👥 Contribuidores da Atividade
 
-<li><a href="https://github.com/arthurMalveste"><h3>Arthur Miele Malveste</h3></a>
+<a href="https://github.com/arthurMalveste"><li><h3>Arthur Miele Malveste</h3></a>
 
-<li><a href="https://github.com/GuilhermeBarbosa759"><h3>Guilherme Barbosa</h3></a>
+<a href="https://github.com/GuilhermeBarbosa759"><li><h3>Guilherme Barbosa</h3></a>
 
 
